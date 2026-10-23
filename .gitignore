@@ -1,0 +1,10 @@
+*.ngc
+*.ngr
+*.syr
+*.stx
+*.lso
+*.cmd_log
+*.xrpt
+*.wdb
+*.exe
+*.html
