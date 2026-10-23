@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/computer/tasnim/cpu_design/register_8bit.vhd</arg>&quot; line <arg fmt="%d" index="2">20</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">CLK_INV</arg>&gt; of block &lt;<arg fmt="%s" index="4">not_gate</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">register_8bit</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/computer/tasnim/cpu_design/program_counter.vhd</arg>&quot; line <arg fmt="%s" index="2">38</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">INCREMENTER</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/computer/tasnim/cpu_design/register_8bit.vhd</arg>&quot; line <arg fmt="%s" index="2">20</arg>: Output port &lt;<arg fmt="%s" index="3">Y</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">CLK_INV</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[4].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[5].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[6].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[7].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[4].AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[5].AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[6].AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[7].AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[4].OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[5].OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[6].OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[7].OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">REG_BITS[4].BIT_REG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">PC_REGISTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">REG_BITS[5].BIT_REG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">PC_REGISTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">REG_BITS[6].BIT_REG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">PC_REGISTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">REG_BITS[7].BIT_REG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">PC_REGISTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">HA1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">HA2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">FA3</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">FA4</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">INCREMENTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">FA5</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">INCREMENTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">FA6</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">INCREMENTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">FA7</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">INCREMENTER</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[0].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[1].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[2].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">GEN_MUX[3].AND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">REG_MUX</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">GEN_MUX[0].OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">GEN_MUX[1].OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">GEN_MUX[2].OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">GEN_MUX[3].OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">HA2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">HA1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">HA1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NAND3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[1].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[2].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[3].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[4].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[5].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[6].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">mux_8bit</arg>&gt;: instances &lt;<arg fmt="%s" index="2">GEN_MUX[0].AND2</arg>&gt;, &lt;<arg fmt="%s" index="3">GEN_MUX[7].AND2</arg>&gt; of unit &lt;<arg fmt="%s" index="4">and_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2170" delta="new" >Unit <arg fmt="%s" index="1">register_8bit</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+</messages>
+
